@@ -2,3 +2,6 @@ body{
     margin: 0;
     direction: rtl;
 }
+img{
+    width: 150px;
+}

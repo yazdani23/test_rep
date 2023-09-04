@@ -1,0 +1,1 @@
+document.getElementById("welcome").style.background="red"
